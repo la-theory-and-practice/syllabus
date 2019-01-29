@@ -26,7 +26,7 @@ This necessarily means that students become comfortable with the educational app
 
 HUDK 4051 is a **disaggregated course** in which students choose the order in which they wish to complete the course content. The course is made up of eight units, the first and last unit are preset, but the other units are completed in the order that students choose. Students will have two weeks to complete each unit.
 
-The class meets twice per week. However, Monday classes will be devoted to recording a podcast and only those students who are signed up to attened are required to. The podcast will provide the content matter on topics from each unit. Wednesday class will be activity based, an opportunity to ask questions about work, do activities and dicussion.
+The class meets twice per week. However, Tuesday classes will be devoted to recording a podcast and only those students who are signed up to attened are required to. The podcast will provide the content matter on topics from each unit. Thursday class will be activity based, an opportunity to ask questions about work, do activities and dicussion.
 
 ## Assessment
 
